@@ -1,6 +1,6 @@
 {
   "name": "block-parser",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "JavaScript text parser to extract code blocks delimited by character pairs (brackets, braces, quotes, etc).",
   "main": "lib/block-parser.js",
   "scripts": {

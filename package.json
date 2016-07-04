@@ -1,0 +1,30 @@
+{
+  "name": "block-parser",
+  "version": "1.0.0",
+  "description": "JavaScript text parser to extract code blocks delimited by character pairs (brackets, braces, quotes, etc).",
+  "main": "lib/block-parser.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/StefanHamminga/block-parser.js.git"
+  },
+  "keywords": [
+    "text",
+    "code",
+    "block",
+    "extract",
+    "parser",
+    "braces",
+    "brackets",
+    "quotes",
+    "delimiter"
+  ],
+  "author": "Stefan Hamminga",
+  "license": "LGPL-3.0",
+  "bugs": {
+    "url": "https://github.com/StefanHamminga/block-parser.js/issues"
+  },
+  "homepage": "https://github.com/StefanHamminga/block-parser.js#readme"
+}
